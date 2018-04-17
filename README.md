@@ -5,9 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.5.0 MacBook Pro (2.4.1 classroom version)
 
-* System dependencies
+* System dependencies (over 20)
+[x] Use bundler 1.14.1 (downgrade from 1.16.x)
+
+* Other dependencies
 
 * Configuration
 

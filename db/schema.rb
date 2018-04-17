@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 2018_04_16_174424) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "lists", id: :serial, force: :cascade do |t|
+  create_table "lists", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
