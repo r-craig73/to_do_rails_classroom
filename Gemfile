@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-# ruby '2.4.1' #classroom version
-ruby '2.5.0' #MacBook Pro version
+ruby '2.4.3' #MacBook Pro version
 
 gem 'rails', '~> 5.2.0'
 gem 'pg', '>= 0.18', '< 2.0'
